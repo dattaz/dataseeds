@@ -11,7 +11,14 @@ Comme nous le voyons, non, mais Internet est vaste, il est donc possible que nou
 <table class="table table-striped table-condensed table-bordered">
 <tr>
 	<th><a href="http://practicalplants.org">practicalplants.org</a></th>
-	<td>wiki + design intéressant + recherche, <br/> licence BY:SA:NC<br/>abandonné entre 2013 et 2015 ?</td>
+	<td><ul>
+		<li>wiki + design intéressant</li>
+		<li>pictogramme + abstract</li>
+		<li>recherche croisée,</li>
+		<li>licence <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY:SA:NC</a></li>
+		<li>abandonné entre 2013 et 2015 ?</li>
+		</ul>
+	</td>
 </tr>
 <tr>
 	<th><a href="http://www.vegebase.plante-et-cite.fr/vegebase-web/flows/main;jsessionid=2DA6BEA96425407D27BBC9805BB2E467?execution=e1s1">vegebase.plante-et-cite.fr</a></th>
@@ -19,19 +26,19 @@ Comme nous le voyons, non, mais Internet est vaste, il est donc possible que nou
 </tr>
 <tr>
 	<th><a href="http://www.tela-botanica.org/page:eflore">tela-botanica.org</a></th>
-	<td></td>
+	<td>réseau de la botanique francophone</td>
 </tr>
 <tr>
-	<th><a href="http://www.luontoportti.com/suomi/">luontoportti.com/suomi/</a></th>
+	<th><a href="http://www.luontoportti.com/suomi/">luontoportti.com</a> (NatureGate)</th>
 	<td></td>
 </tr>
 <tr>
 	<th><a href="http://www.vegebase.fr/vegebase-web/flows/main;jsessionid=A38DEDC12900864D5E03CB59B0700045?execution=e1s2">vegebase.fr</a></th>
-	<td></td>
+	<td> outil en ligne de connaissance et d'aide au choix des végétaux,</td>
 </tr>
 <tr>
 	<th><a href="http://www.jardindupicvert.com/4daction/w/recherche_de_plantes.rplaniol?session=190mh5sg7ay8f">jardindupicvert.com</a></th>
-	<td></td>
+	<td>recherche croisée</td>
 </tr>
 </table> 
 
@@ -44,7 +51,7 @@ L'idée est d'avoir une base de données la plus complète possible et où l'on 
 
 ## Comment ?
 
-La piste principale de réflexion pour le moment vise à avoir pour chaque plante une page de référence unique pour toutes les langues (avec comme ID son nom latin ? ex. *[Quercus Ilex](https://fr.wikipedia.org/wiki/Ch%C3%AAne)*)  des informations partagées (période de semis, couleurs, type de feuillage, taille min/max, photos...), et des parties personnalisée pour chaque langue (explications, détails...). 
+La piste principale de réflexion pour le moment vise à avoir pour chaque plante une page de référence unique pour toutes les langues (avec comme ID son nom latin ? ex. *[Quercus Ilex](https://fr.wikipedia.org/wiki/Ch%C3%AAne)*)  des informations partagées (période de semis, pictogrammes, taille min/max, photos...), et des parties personnalisée pour chaque langue (explications, détails, couleurs...). 
 
 Une plante ajoutée à la base de données sera ainsi directement disponible pour l'ensemble des langues avec des informations minimales.
 
