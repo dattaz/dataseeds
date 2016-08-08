@@ -1,4 +1,0 @@
-AuthUserFile "/var/www/alternc/d/dataseeds/www/dataseeds.org/www/.htpasswd"
-AuthName "Restricted area"
-AuthType Basic
-require valid-user
