@@ -69,9 +69,6 @@ Voici une liste des informations que l'on pourrait trouver pour chaque plante, n
 
 #### Classification
 
-Règne Sous-règne Division Classe Sous-classe Ordre Famille Genre Sous-Genre
-
-
 <table class="table table-striped table-condensed table-bordered">
 <tr><th>Règne</th><td></td></tr>
 <tr><th>Sous-règne</th><td></td></tr>
@@ -129,9 +126,8 @@ Règne Sous-règne Division Classe Sous-classe Ordre Famille Genre Sous-Genre
 
 
 <table class="table table-striped table-condensed table-bordered">
-<tr><th>Source</th><td>des différentes informations</td></tr>
+<tr><th>Source</th><td>livres, sites, ...</td></tr>
 <tr><th>Histoire / origine / mythologie</th><td></td></tr>
-
 </table> 
 
 
