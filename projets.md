@@ -29,7 +29,7 @@ Une plante ajoutée dans la base sera ainsi directement disponible pour l'ensemb
 
 #### Nom(s)
 
-<table>
+<table class="table table-striped">
 <tr><th>Nom(s)</th><td></td></tr>
 <tr><th>Nom latin</th><td></td></tr>
 <tr><th>Synonyme</th><td></td></tr>
@@ -37,7 +37,7 @@ Une plante ajoutée dans la base sera ainsi directement disponible pour l'ensemb
 
 #### Classification
 
-<table>
+<table class="table table-striped">
 <tr><th>Famille</th><td></td></tr>
 <tr><th>Variété</th><td></td></tr>
 <tr><th>Type de plante</th><td>ligneuse, herbacée</td></tr>
@@ -45,7 +45,7 @@ Une plante ajoutée dans la base sera ainsi directement disponible pour l'ensemb
 
 #### Description
 
-<table>
+<table class="table table-striped">
 <tr><th>Description</th><td>abstract</td></tr>
 <tr><th>Hauteur</th><td></td></tr>
 <tr><th>Largeur</th><td></td></tr>
@@ -59,7 +59,7 @@ Une plante ajoutée dans la base sera ainsi directement disponible pour l'ensemb
 
 #### Informations 1
 
-<table>
+<table class="table table-striped">
 <tr><th>Exposition</th><td></td></tr>
 <tr><th>Type de terre</th><td>calcaire, argileuse, sablonneuse...</td></tr>
 <tr><th>Besoin en eau</th><td></td></tr>
@@ -71,7 +71,7 @@ Une plante ajoutée dans la base sera ainsi directement disponible pour l'ensemb
 
 #### Informations 2
 
-<table>
+<table class="table table-striped">
 <tr><th>Engrais vert</th><td>oui / non</td></tr>
 <tr><th>Mellifère</th><td>oui / non</td></tr>
 <tr><th>Comestible</th><td> oui / non</td></tr>
@@ -85,7 +85,7 @@ Une plante ajoutée dans la base sera ainsi directement disponible pour l'ensemb
 #### Informations 3
 
 
-<table>
+<table class="table table-striped">
 <tr><th>Source</th><td>des différentes informations</td></tr>
 <tr><th>Histoire / origine / mythologie</th><td></td></tr>
 <tr><th></th><td></td></tr>
