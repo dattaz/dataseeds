@@ -8,7 +8,7 @@ Cette page représente pour le moment l'ébauche du projet et contient sans aucu
 
 Comme nous le voyons, non, mais Internet est vaste, il est donc possible que nous l'ayons raté. Si vous connaissez un site qui semble avoir les bonnes caractéristiques, n'hésitez pas à nous faire signe.
 
-<table class="table table-striped">
+<table class="table table-striped table-condensed table-bordered">
 <tr>
 	<th><a href="http://practicalplants.org">practicalplants.org</a></th>
 	<td>wiki + design intéressant + recherche, <br/> licence BY:SA:NC<br/>abandonné entre 2013 et 2015 ?</td>
@@ -54,7 +54,7 @@ Voici une liste des informations que l'on pourrait trouver pour chaque plante, n
 
 #### Nom(s)
 
-<table class="table table-striped">
+<table class="table table-striped table-condensed table-bordered">
 <tr><th>Nom latin</th><td></td></tr>
 <tr><th>Nom(s)</th><td></td></tr>
 <tr><th>Synonyme</th><td></td></tr>
@@ -65,7 +65,7 @@ Voici une liste des informations que l'on pourrait trouver pour chaque plante, n
 Règne Sous-règne Division Classe Sous-classe Ordre Famille Genre Sous-Genre
 
 
-<table class="table table-striped">
+<table class="table table-striped table-condensed table-bordered">
 <tr><th>Règne</th><td></td></tr>
 <tr><th>Sous-règne</th><td></td></tr>
 <tr><th>Division</th><td></td></tr>
@@ -79,7 +79,7 @@ Règne Sous-règne Division Classe Sous-classe Ordre Famille Genre Sous-Genre
 
 #### Description
 
-<table class="table table-striped">
+<table class="table table-striped table-condensed table-bordered">
 <tr><th>Description</th><td></td></tr>
 <tr><th>Type de plante</th><td>ligneuse, herbacée</td></tr>
 <tr><th>Hauteur</th><td>min / max</td></tr>
@@ -94,7 +94,7 @@ Règne Sous-règne Division Classe Sous-classe Ordre Famille Genre Sous-Genre
 
 #### Informations 1
 
-<table class="table table-striped">
+<table class="table table-striped table-condensed table-bordered">
 <tr><th>Exposition</th><td></td></tr>
 <tr><th>Type de terre</th><td>calcaire, argileuse, sablonneuse...</td></tr>
 <tr><th>Besoin en eau</th><td></td></tr>
@@ -106,7 +106,7 @@ Règne Sous-règne Division Classe Sous-classe Ordre Famille Genre Sous-Genre
 
 #### Informations 2
 
-<table class="table table-striped">
+<table class="table table-striped table-condensed table-bordered">
 <tr><th>Engrais vert</th><td>oui / non</td></tr>
 <tr><th>Fixateur d'azote</th><td>oui / non</td></tr>
 <tr><th>Mellifère</th><td>oui / non</td></tr>
@@ -121,7 +121,7 @@ Règne Sous-règne Division Classe Sous-classe Ordre Famille Genre Sous-Genre
 #### Informations 3
 
 
-<table class="table table-striped">
+<table class="table table-striped table-condensed table-bordered">
 <tr><th>Source</th><td>des différentes informations</td></tr>
 <tr><th>Histoire / origine / mythologie</th><td></td></tr>
 
