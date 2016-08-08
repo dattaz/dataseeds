@@ -11,7 +11,6 @@ Si vous souhaitez éditer la page de présentation du projet, vous pouvez édite
 ```
 apt install ruby-dev
 gem install redcarpet github-markup
-
 ```
 
 * run `run.sh`
