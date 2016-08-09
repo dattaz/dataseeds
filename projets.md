@@ -1,6 +1,6 @@
 # Dataseeds
 
-Dataseeds est un projet de base de données sous licence libre des semences. L'idée première est d'avoir un site collaboratif multilingue, permettant des recherches croisées et pouvant par exemple aider à l'[agroforesterie](https://fr.wikipedia.org/wiki/Agroforesterie) ou à la [permaculture](https://fr.wikipedia.org/wiki/Permaculture).
+Dataseeds est un projet de base de données sous licence libre des semences. L'idée première est d'avoir un site collaboratif multilingue, permettant des recherches croisées et pouvant par exemple aider à l'[agroécologie](https://fr.wikipedia.org/wiki/Agro%C3%A9cologie) ou à la [permaculture](https://fr.wikipedia.org/wiki/Permaculture).
 
 Cette page représente pour le moment l'ébauche du projet et contient sans aucun doute des erreurs et/ou des oublis. N'hésitez pas à envoyer un email sur `contact (a) dataseeds.org` si vous avez une remarque ou des améliorations à apporter, ou si vous souhaitez simplement y participer. Vous pouvez aussi éditer ce document directement sur [github](https://github.com/skhaen/dataseeds).
 
