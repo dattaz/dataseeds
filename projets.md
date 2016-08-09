@@ -136,6 +136,6 @@ Voici une liste des informations que l'on pourrait trouver pour chaque plante, n
 
 ### Licence
 
-Le code de l'API et du site serait sous licence [GPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU), la base de données en elle même serait sous [Creative Commons BY:SA](https://creativecommons.org/licenses/by-sa/2.0/fr/).
+Le code de l'API et du site serait sous licence [GPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU), la base de données en elle même serait sous [Creative Commons BY:SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
 
